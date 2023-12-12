@@ -11,7 +11,6 @@ The `echo` command is used to display messages on the terminal. Your task is to 
 ## Task 3: Variables
 
 Variables in bash are used to store data and can be referenced by their name. Your task is to create a bash script that declares variables and assigns values to them.
-
 ## Task 4: Using Variables
 
 Now that you have declared variables, let's use them to perform a simple task. Create a bash script that takes two variables (numbers) as input and prints their sum using those variables.
